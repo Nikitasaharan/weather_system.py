@@ -32,5 +32,22 @@ weather_system.columnMajorAccess()
 
 print(weather_system.retrieve("Mumbai", 2023))
 
+ ```
 
-## Example
+## Time and Space Complexity
+
+- Insert: O(1)
+- Delete: O(n × m)
+- Retrieve: O(n × m)
+- Space: O(n × m)
+  
+## Screenshots 
+<img width="1578" height="342" alt="Screenshot 2025-09-27 130944" src="https://github.com/user-attachments/assets/f056ba58-c605-4a3b-a22b-a3fe21cc390e" />
+
+## Author
+
+- Nikita Saharan
+- 2401840008
+- B.Sc. (H) Data Science 
+- DSA Theory Assigment 1 
+
